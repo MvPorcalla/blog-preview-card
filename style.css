@@ -98,6 +98,7 @@ body {
 .icon-text {
     display: flex;
     align-items: center;
+    margin-bottom: auto;
 }
 
 .icon-text img {
