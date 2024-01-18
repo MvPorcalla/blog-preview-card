@@ -101,13 +101,13 @@ body {
 }
 
 .icon-text img {
-    max-width: 40px;
+    max-width: 35px;
     height: auto;
     margin-right: 10px;
 }
 
 .icon-text span {
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 600;
     margin: 0;
 }
